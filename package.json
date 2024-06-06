@@ -1,0 +1,17 @@
+{
+  "name": "scrapper.online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^22.10.0",
+    "uuid": "^9.0.1"
+  }
+}
