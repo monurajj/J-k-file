@@ -126,8 +126,39 @@ async function scrap() {
         }
     }
 
-    console.log(filteredData);
-    fs.writeFileSync("monu.json", JSON.stringify(filteredData, null, 2)); // Write only data to the file
+    // Function to replace keys
+    function replaceKeys(obj) {
+        const keyMap = {
+            'name': 'scheme_name',
+            'criteria': 'eligibility_criteria',
+            'Category': 'category',
+            'Procedure': 'application_process',
+            'Description of the Scheme': 'beneficiary_category'
+        };
+
+        const newObj = {};
+        for (let key in obj) {
+            let newKey = keyMap[key] || key;
+            newObj[newKey] = obj[key];
+
+            // If the value is an object, apply the replacement recursively
+            if (typeof newObj[newKey] === 'object' && newObj[newKey] !== null) {
+                newObj[newKey] = replaceKeys(newObj[newKey]);
+            }
+        }
+        return newObj;
+    }
+
+    // Apply key replacements
+    const replacedData = filteredData.map(section => {
+        return {
+            ...section,
+            schemes: section.schemes.map(scheme => replaceKeys(scheme))
+        };
+    });
+
+    console.log(replacedData);
+    fs.writeFileSync("monu.json", JSON.stringify(replacedData, null, 2)); // Write only data to the file
     await browser.close();
 }
 
