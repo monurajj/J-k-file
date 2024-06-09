@@ -133,7 +133,7 @@ async function scrap() {
             'criteria': 'eligibility_criteria',
             'Category': 'category',
             'Procedure': 'application_process',
-            'Description of the Scheme': 'beneficiary_category'
+            'Description of the Scheme': 'funding_by'
         };
 
         const newObj = {};
