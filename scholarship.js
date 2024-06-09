@@ -158,7 +158,7 @@ async function scrap() {
     });
 
     console.log(replacedData);
-    fs.writeFileSync("monu.json", JSON.stringify(replacedData, null, 2)); // Write only data to the file
+    fs.writeFileSync("j & k.json", JSON.stringify(replacedData, null, 2)); // Write only data to the file
     await browser.close();
 }
 
