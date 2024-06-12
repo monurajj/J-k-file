@@ -133,7 +133,11 @@ async function scrap() {
             'criteria': 'eligibility_criteria',
             'Category': 'category',
             'Procedure': 'application_process',
-            'Description of the Scheme': 'funding_by'
+            'Description of the Scheme': 'funding_by',
+            'S. No': 's.no',
+            'Age': 'age',
+            'No of Sanctioned Beneficiaries': 'no. of Sanctioned Beneficiaries',
+            'Rate of pension per beneficiary per month': 'rate of pension per beneficiary per month'
         };
 
         const newObj = {};

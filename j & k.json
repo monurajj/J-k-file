@@ -3,7 +3,7 @@
     "title": "National Social Assistance Programme (NSAP):-",
     "schemes": [
       {
-        "id": "bc430276-d8a7-46c3-86e1-5d6e81fe99c1",
+        "id": "ffb31584-c1b3-4150-bab1-5fd68e8f243e",
         "scheme_name": "1. Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNOAPS.html",
         "details": {
@@ -11,15 +11,15 @@
           "application_process": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status and address. Complete case is to be submitted to the concerned Tehsil Social Welfare officer against proper receipt. The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by Director General, Social Welfare Department, Kashmir."
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "category": "BPL",
-          "Age": "Above 60 years",
-          "No of Sanctioned Beneficiaries": "70839",
-          "Rate of pension per beneficiary per month": "1000"
+          "age": "Above 60 years",
+          "no. of Sanctioned Beneficiaries": "70839",
+          "rate of pension per beneficiary per month": "1000"
         }
       },
       {
-        "id": "699838ce-af8e-4cba-9e7e-0511bc3166d4",
+        "id": "6b34153b-aee3-42a7-9175-247f618d8bfc",
         "scheme_name": "2. Indira Gandhi National Widow Pension Scheme (IGNWPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNWPS.html",
         "details": {
@@ -27,15 +27,15 @@
           "application_process": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status and address. Complete case is to be submitted to the concerned Tehsil Social Welfare officer against proper receipt. The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by Director General, Social Welfare Department, Kashmir."
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "category": "BPL",
-          "Age": "Above 49 years",
-          "No of Sanctioned Beneficiaries": "4943",
-          "Rate of pension per beneficiary per month": "1000"
+          "age": "Above 49 years",
+          "no. of Sanctioned Beneficiaries": "4943",
+          "rate of pension per beneficiary per month": "1000"
         }
       },
       {
-        "id": "dd008432-848c-4324-b921-6653cbfaa9ef",
+        "id": "ef5916da-724d-4550-88d2-f340c8741897",
         "scheme_name": "3. Indira Gandhi National Disability Pension Scheme (IGNDPS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/IGNDPS.html",
         "details": {
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "381ea9b9-a626-4a2e-89b0-43f7cd64ee7b",
+        "id": "421b9fb3-b70a-4159-b9f4-b8674ea590ea",
         "scheme_name": "4. National Family Benefit Scheme (NFBS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/NFBS.html",
         "details": {
@@ -54,9 +54,9 @@
           "application_process": "The application forms are available with DSWO/TSWO free of cost. The applicant has to complete the application form and enclose proof regarding age, income, status, address and death certificate. Complete case is to be submitted to the concerned TSWO who consolidates the lists and forwards to Block Level Sanctioning Committee. The cases are then submitted to DSWO for accord of sanction by District level sanctioning committee headed by"
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "category": "BPL",
-          "Age": "18-59 years whose primary bread earner dies due to accident/natural cause",
+          "age": "18-59 years whose primary bread earner dies due to accident/natural cause",
           "No. of pending cases": "5684",
           "cases covered ending 03.2020": "9175",
           "Net pendency": "5540",
@@ -70,48 +70,48 @@
     "title": "Integrated Social Security Schemes (ISSS):-",
     "schemes": [
       {
-        "id": "131c9ffa-df8c-43ef-8832-b43435cc704b",
+        "id": "4364ed9f-6819-4c12-a7ad-e4bdc88f44f5",
         "scheme_name": "1. Old Age Pension (OAP), ",
         "url": "https://socialwelfarekashmir.jk.gov.in/OAP.html",
         "details": {
           "funding_by": "Old aged men and women with no source of income are provided financial support in the form of pension. Applicants shall be 60 years and above in case of males and 55 years or above in case of females and the applicant should have meager source of income."
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "Component": "OAP",
-          "Age": "60 Years (Men)55 Years (Women)",
-          "No of Sanctioned Beneficiaries": "205272",
-          "Rate of pension per beneficiary per month": "1000"
+          "age": "60 Years (Men)55 Years (Women)",
+          "no. of Sanctioned Beneficiaries": "205272",
+          "rate of pension per beneficiary per month": "1000"
         }
       },
       {
-        "id": "f247229e-db57-4d0b-92ce-2621b2a586d1",
+        "id": "d2898ade-d36f-4967-a019-a44cbdb6b6fd",
         "scheme_name": "2.Widows/Women in Distress (WID), ",
         "url": "https://socialwelfarekashmir.jk.gov.in/WID.html",
         "details": {
           "funding_by": "Women in distress, including destitute, separated, divorced or widow are provided financial support in the form of monthly pension. - The applicant should be aged between 40-79 years"
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "Component": "WID",
-          "Age": "40 - 79 years",
-          "No of Sanctioned Beneficiaries": "106633",
-          "Rate of pension per beneficiary per month": "1000"
+          "age": "40 - 79 years",
+          "no. of Sanctioned Beneficiaries": "106633",
+          "rate of pension per beneficiary per month": "1000"
         }
       },
       {
-        "id": "301f2db2-b2d6-4221-a063-b683c60d98be",
+        "id": "1f500f0c-1499-4970-8196-cc4c3445d748",
         "scheme_name": "3. Pension for Physically Challenged Persons (PCP), , 4. Pension for, , Transgender Community",
         "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html",
         "details": {
           "funding_by": "The pension is provided to persons with 40% or more disability and having no source of income. Physically Challenged Person should be in the age of 18-79 years."
         },
         "eligibility_criteria": {
-          "S. No": "1",
+          "s.no": "1",
           "Component": "PCP",
-          "Age": "18-79 years with severe or multiple disabilities",
-          "No of Sanctioned Beneficiaries": "93093",
-          "Rate of pension per beneficiary per month": "1000"
+          "age": "18-79 years with severe or multiple disabilities",
+          "no. of Sanctioned Beneficiaries": "93093",
+          "rate of pension per beneficiary per month": "1000"
         }
       }
     ]
@@ -120,7 +120,7 @@
     "title": "C.) CONTRIBUTARY SCHEME (State Sponsored )",
     "schemes": [
       {
-        "id": "79715e14-11c1-4773-932b-0a2db86d41c3",
+        "id": "a1e9560d-e925-424d-9ea2-1158bc9be853",
         "scheme_name": "1. Contributory Social Security Scheme (CSSS)",
         "url": "https://socialwelfarekashmir.jk.gov.in/CSSS.html",
         "details": {
@@ -129,7 +129,7 @@
         "eligibility_criteria": {}
       },
       {
-        "id": "30a66fa8-3be2-414d-a72d-6be55de8d9da",
+        "id": "44458cea-a706-4588-b673-d4b66e65dd25",
         "scheme_name": "2. Aam Aadmi Bima Yojana Scheme (AABYS), , ",
         "url": "https://socialwelfarekashmir.jk.gov.in/AABYS.html",
         "details": {
@@ -143,7 +143,7 @@
     "title": "SCHOLARSHIP SCHEMES",
     "schemes": [
       {
-        "id": "f6298d98-3c6b-4754-8851-015215500166",
+        "id": "5b1ec2e6-2763-490b-aefe-767e173a9ef5",
         "scheme_name": "1. Post-matric Scholarship for Physically Challenged, SC & OBC Students, ",
         "url": "https://socialwelfarekashmir.jk.gov.in/POMPCOBC.html",
         "details": {
@@ -157,7 +157,7 @@
     "title": "DISTRICT LEVEL SCHOLARSHIP SCHEMES:",
     "schemes": [
       {
-        "id": "ed5b3737-ccce-4648-bcae-cc1789e7a574",
+        "id": "6cb5bdbb-f192-4667-91f8-3d1174c2fb7c",
         "scheme_name": "1. Pre-matric Scholarship for Physically Challenged and Other Backward Classes Students (OBC)",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRMPCOBC.html",
         "details": {
@@ -166,7 +166,7 @@
         "eligibility_criteria": {}
       },
       {
-        "id": "dd95f511-9e77-4edf-8652-4f8d3f96e792",
+        "id": "c2e259f5-fc7e-4dbc-8d56-04864ec78c75",
         "scheme_name": "2. Stipend to ITI Trainees from OBC Background",
         "url": "https://socialwelfarekashmir.jk.gov.in/SITIOBC.html",
         "details": {
@@ -175,7 +175,7 @@
         "eligibility_criteria": {}
       },
       {
-        "id": "c634c772-55be-4ab9-bfd0-3916c7040809",
+        "id": "6310d9a1-0fa8-4d30-9347-9beccec28b35",
         "scheme_name": "3. Pre-matric Scholarship for Children of those Engaged in Unclean Occupation",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRCEUO.html",
         "details": {},
@@ -187,7 +187,7 @@
     "title": "SCHEMES IMPLEMENTED BY MINISTRY OF",
     "schemes": [
       {
-        "id": "ec43bcd2-9291-4b2d-a4a5-cac0b57b579f",
+        "id": "01c4ce58-433d-4953-b61e-81d082d8fcf1",
         "scheme_name": "1. Pre-matric Scholarship to Students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/PRSNM.html",
         "details": {
@@ -198,7 +198,7 @@
         }
       },
       {
-        "id": "3cf278fc-c1bb-4d39-ad86-4c274d36b61f",
+        "id": "0d1a1bba-3792-410d-a9e1-8cd6f70d8f56",
         "scheme_name": "2. Post-matric Scholarship to students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/POSNM.html",
         "details": {
@@ -209,7 +209,7 @@
         }
       },
       {
-        "id": "2b6705f4-237f-4380-a841-bd10d1875096",
+        "id": "73ce3c0d-e4ec-4479-9ee1-f240c297398a",
         "scheme_name": "3. Merit-cum-Means based scholarship to students belonging to National Minorities",
         "url": "https://socialwelfarekashmir.jk.gov.in/MCM.html",
         "details": {
@@ -220,7 +220,7 @@
         }
       },
       {
-        "id": "4610db7b-deaa-4fd4-98c0-8e38a1ceda46",
+        "id": "e5376319-51ed-47d3-aa5b-f009d2d70374",
         "scheme_name": "1. Dr. Ambedkar post-matric scholarship for Economically Backward Classes, (EBC) students",
         "url": "https://socialwelfarekashmir.jk.gov.in/ebc.html",
         "details": {
@@ -229,7 +229,7 @@
         "eligibility_criteria": {}
       },
       {
-        "id": "7d2ce0a0-606f-4c5a-9f72-857b3d32baae",
+        "id": "9aedfd32-06ca-4ed5-aa97-753465537d04",
         "scheme_name": "2.",
         "url": "file:///C:/Users/Desktop/website%20details/POSNM.html",
         "details": {
@@ -240,7 +240,7 @@
         }
       },
       {
-        "id": "a0f8b065-cbfc-4732-974f-591dbf2d8566",
+        "id": "3d16db77-58da-4f36-a70e-a655680a055b",
         "scheme_name": "Dr. Ambedkar post-matric scholarship for Denotified Nomadic & Semi-, nomadic tribes(DNT) students",
         "url": "https://socialwelfarekashmir.jk.gov.in/DNTs.html",
         "details": {
@@ -249,7 +249,7 @@
         "eligibility_criteria": {}
       },
       {
-        "id": "27ee9eca-f975-4b54-b621-301a0ac234ff",
+        "id": "0abd7769-085b-42bb-a560-e1f5f7d6c03d",
         "scheme_name": "3. Central sector schemes of pre and post-matric scholarship for students with, disabilities",
         "url": "https://socialwelfarekashmir.jk.gov.in/CSPMSD.html",
         "details": {
@@ -263,7 +263,7 @@
     "title": "MISCELLANEOUS WELFARE SCHEMES",
     "schemes": [
       {
-        "id": "9ce4b19a-0ac6-432a-9321-6cde2b725cd0",
+        "id": "b7919d68-15af-4be4-8a1b-6569c39bf7f6",
         "scheme_name": "1. Financial assistance to Gadhanjis (Fishermen)",
         "url": "https://socialwelfarekashmir.jk.gov.in/FAGH.html",
         "details": {
@@ -274,7 +274,7 @@
         }
       },
       {
-        "id": "85c56787-2317-4451-beba-8cc7ad06ac5e",
+        "id": "933f9bc1-5126-4bf7-96f2-f3cdecbe4516",
         "scheme_name": "2. Grant of Prosthetic Aid for fitting-up/repairing of Artificial Limbs",
         "url": "https://socialwelfarekashmir.jk.gov.in/PAAL.html",
         "details": {
@@ -285,7 +285,7 @@
         }
       },
       {
-        "id": "d86287ec-0a23-47b7-96d4-59bbe374a7cf",
+        "id": "5c4cfef4-4a1d-4e1a-b356-3fb0c1f55f2c",
         "scheme_name": "3. Grant in Aid to NGO's",
         "url": "https://socialwelfarekashmir.jk.gov.in/NGO.html",
         "details": {
@@ -299,7 +299,7 @@
         }
       },
       {
-        "id": "d30b8eb4-1cfb-4c8d-9f9b-ed7e6bda55fc",
+        "id": "474a0748-6569-42d0-83e2-b0ec7f5ef33d",
         "scheme_name": "4. State Marriage Assistance Scheme",
         "url": "https://socialwelfarekashmir.jk.gov.in/State%20Marriage%20Assistance%20Scheme.html",
         "details": {
@@ -311,7 +311,7 @@
         }
       },
       {
-        "id": "8b6151b7-8432-44ed-b094-fd1687d5ce87",
+        "id": "8a9d37a0-2ff5-4a38-afa8-e9a896a61d6f",
         "scheme_name": "5. AASRA",
         "url": "https://socialwelfarekashmir.jk.gov.in/AASRA.html",
         "details": {
@@ -324,7 +324,7 @@
         }
       },
       {
-        "id": "baf842c5-ae67-46c8-beba-5a58d9a2a4fd",
+        "id": "333a51f8-05cf-45bd-a62f-e87b549b5765",
         "scheme_name": "6. HUNAR",
         "url": "https://socialwelfarekashmir.jk.gov.in/HUNAR.html",
         "details": {
